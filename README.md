@@ -68,8 +68,6 @@ Relationships were created between multiple tables using primary and foreign key
 - seller_id → sellers
 - order_id → reviews
 
-A star-schema-like data model was implemented for efficient reporting and analysis.
-
 ---
 
 # SQL Concepts Used
@@ -126,16 +124,6 @@ The project includes:
 
 ---
 
-# Power BI Dashboard Screenshots
-
-## Executive Overview
-(Add Screenshot Here)
-
-## Customer & Product Insights
-(Add Screenshot Here)
-
----
-
 # Skills Demonstrated
 This project demonstrates:
 - Data Cleaning
@@ -148,20 +136,6 @@ This project demonstrates:
 - Data Visualization
 - Analytical Thinking
 
----
-
-# Project Structure
-
-```text
-Ecommerce-Sales-Analysis/
-│
-├── Dataset/
-├── SQL Queries/
-├── PowerBI Dashboard/
-├── Dashboard Screenshots/
-├── README.md
-└── Insights Report/
-```
 
 ---
 
@@ -189,6 +163,8 @@ Future enhancements can include:
 ---
 
 # Author
+## Mamta Rathore
+Aspiring Data Analyst | SQL | Power BI | Data Analytics
 
 ## Mamta Rathore
 Aspiring Data Analyst | SQL | Power BI | Data Analytics
