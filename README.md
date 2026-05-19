@@ -163,8 +163,7 @@ Future enhancements can include:
 ---
 
 # Author
-## Mamta Rathore
-Aspiring Data Analyst | SQL | Power BI | Data Analytics
+
 
 ## Mamta Rathore
 Aspiring Data Analyst | SQL | Power BI | Data Analytics
