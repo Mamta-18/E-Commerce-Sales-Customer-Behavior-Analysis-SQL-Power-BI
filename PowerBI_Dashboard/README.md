@@ -33,7 +33,7 @@ The Home Page acts as a landing page for dashboard navigation.
 - Dashboard Title
 - Navigation Buttons
 - Simple UI Design
-<img width="100%" alt="Home Page" src="Home.png">
+<img width="100%" alt="Home Page" src="dashboard_ss/Home.png">
 ---
 
 # 2. Executive Overview
@@ -71,7 +71,7 @@ Provides a high-level summary of business performance.
 
 ## Payment Type Filter
 - Allows interactive filtering
-<img width="100%" alt="Customer & Product Insights Dashboard" src="Executive_overview.png">
+<img width="100%" alt="Customer & Product Insights Dashboard" src="dashboard_ss/Executive_overview.png">
 
 
 ---
@@ -100,7 +100,7 @@ Customers categorized into:
 
 ## Product Category Filter
 - Enables category-based analysis
-<img width="100%" alt="Customer & Product Insights Dashboard" src="customer_and_product_insights.png">
+<img width="100%" alt="Customer & Product Insights Dashboard" src="dashboard_ss/customer_and_product_insights.png">
 
 ---
 
